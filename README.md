@@ -1,4 +1,4 @@
-# meRemoteBell
+# myRemoteBell
 
 ## Idea:
 Using esp8266 to ring a bell via the Internet
