@@ -8,11 +8,13 @@ Features:
 * Send Response (Decline/Wait/NoAnswer)
 * Smart Config
 * Pass voice
+* Temperature acquire
 
 ## To-do:
 * [ ] Develop BackEnd
   * [ ] Setup public server
   * [ ] Setup MQTT broker
+  * [ ] Device Management
 * [ ] Develop Device
   * [ ] Prep devices
     * [ ] ESP8266
