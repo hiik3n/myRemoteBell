@@ -66,4 +66,8 @@ Features:
 	
 	https://mosquitto.org/man/mosquitto-conf-5.html
   
-  
+## Lessions:
+* [x] MQTT Secure: auth + tls
+* [ ] Self-generate Certification for TLS (now using script, manual need more research)
+
+
